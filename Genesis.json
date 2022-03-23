@@ -1,0 +1,62 @@
+[
+    {
+        "id":"1",
+        "question":"Who is the father of Adam",
+        "option":["God","Noah","Jacob","not in the option"],
+        "correct":"God"
+    },
+    {
+        "id":"2",
+        "question":"Who is the father of Eve",
+        "option":["God","Noah","Jacob","not in the option"],
+        "correct":"God"
+    },
+    {
+        "id":"3",
+        "question":"Who is the father of Abarham",
+        "option":["God","Noah","Jacob","not in the option"],
+        "correct":"God"
+    },
+    {
+        "id":"4",
+        "question":"Who is the father of Matthew",
+        "option":["God","Noah","Jacob","not in the option"],
+        "correct":"God"
+    },
+    {
+        "id":"5",
+        "question":"Who is the father of Moses",
+        "option":["God","Noah","Jacob","not in the option"],
+        "correct":"God"
+    },
+    {
+        "id":"6",
+        "question":"Who is the father of Noah",
+        "option":["God","Noah","Jacob","not in the option"],
+        "correct":"God"
+    },
+    {
+        "id":"7",
+        "question":"Who is the father of Sheshbazzar",
+        "option":["God","Noah","Jacob","not in the option"],
+        "correct":"God"
+    },
+    {
+        "id":"8",
+        "question":"Who is the father of Rachael",
+        "option":["God","Noah","Jacob","not in the option"],
+        "correct":"God"
+    },
+    {
+        "id":"9",
+        "question":"Who is the father of Mordecai",
+        "option":["God","Noah","Jacob","not in the option"],
+        "correct":"God"
+    },
+    {
+        "id":"10",
+        "question":"Who is the father of Esther",
+        "option":["God","Noah","Jacob","not in the option"],
+        "correct":"God"
+    }
+]
